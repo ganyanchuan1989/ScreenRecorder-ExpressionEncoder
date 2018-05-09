@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Form1.resources
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\bin\x86\Debug\ScreenCapture.exe
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\bin\x86\Debug\ScreenCapture.pdb
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\Administrator\Desktop\ScreenCapture\ScreenCapture\ScreenCapture\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
